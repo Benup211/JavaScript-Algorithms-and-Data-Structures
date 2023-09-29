@@ -37,3 +37,4 @@ titleCaseOver = 9000;
 // i.e const val=5; then we cannot reassign value
 // cont variable declaration are generally in uppercase
 
+console.log(titleCaseOver,properCamelCase);
